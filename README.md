@@ -1,2 +1,16 @@
-# Simple-Calculator
-Developed an simple calculator app using Flutter and Dart, supporting all basic arithmetic operations. Implemented a history section to track and delete previous calculations, and added dark/light mode for enhanced user experience. Designed a clean, responsive interface to improve usability while practicing mobile app development best practices.
+# calcapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
